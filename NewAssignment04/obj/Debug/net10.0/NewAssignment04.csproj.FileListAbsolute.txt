@@ -1,0 +1,17 @@
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\bin\Debug\net10.0\NewAssignment04.exe
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\bin\Debug\net10.0\NewAssignment04.deps.json
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\bin\Debug\net10.0\NewAssignment04.runtimeconfig.json
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\bin\Debug\net10.0\NewAssignment04.runtimeconfig.dev.json
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\bin\Debug\net10.0\NewAssignment04.dll
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\bin\Debug\net10.0\NewAssignment04.pdb
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.AssemblyInfoInputs.cache
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.AssemblyInfo.cs
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.csproj.CoreCompileInputs.cache
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.sourcelink.json
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.dll
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\refint\NewAssignment04.dll
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.pdb
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssignment04.genruntimeconfig.cache
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\ref\NewAssignment04.dll
+E:\Route Academy\Assignments\NewAssignment04\NewAssignment04\obj\Debug\net10.0\NewAssig.C67E859E.Up2Date
